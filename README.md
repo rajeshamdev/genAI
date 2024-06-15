@@ -13,6 +13,7 @@ Foundational courses for Generative AI should cover essential concepts:
 
 1. [Natural Language Processing Specialization on Coursera](https://www.coursera.org/specializations/natural-language-processing): Many generative AI applications involve natural language generation. This specialization covers relevant topics like sequence-to-sequence models and language generation.
 
+1. [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?)
 
 1. Online Tutorials and Papers: Stay updated with recent research papers on platforms like arXiv and tutorials on platforms like GitHub and Medium for practical implementations and cutting-edge advancements.
 
