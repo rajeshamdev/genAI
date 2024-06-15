@@ -1,4 +1,4 @@
-# genAI
+# Generative AI Learning Path
 
 Foundational courses for Generative AI should cover essential concepts:
 
