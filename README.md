@@ -17,4 +17,6 @@ Foundational courses for Generative AI should cover essential concepts:
 
 1. Online Tutorials and Papers: Stay updated with recent research papers on platforms like arXiv and tutorials on platforms like GitHub and Medium for practical implementations and cutting-edge advancements.
 
+1. [CS50's Introduction to Artificial Intelligence with Python by Hardward University](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
+
 
